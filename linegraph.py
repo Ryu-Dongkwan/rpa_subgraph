@@ -13,6 +13,7 @@ import pandas
 import numpy
 import networkx
 import matplotlib.pyplot
+import matplot
 
 from pyvis.network import Network
 
