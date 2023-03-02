@@ -1,4 +1,4 @@
-# rpa_subgraph V1.1
+# rpa_subgraph V1.2
 
 This repository contains source code of generating subgraph from a network.
 The generating operation focuses on trimming edges between the nodes.
